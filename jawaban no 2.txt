@@ -1,0 +1,9 @@
+-        is_username_valid(‘syihabul’)
+	return false
+-        is_username_valid(‘hab44ul’)
+	return true
+-        is_password_valid(‘ha@bul’)
+	return true
+-        is_password_valid(‘jar3ne!#’)
+	return false
+

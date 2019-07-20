@@ -1,0 +1,3 @@
+$programerit:[$pro,$gram,$merit];
+$progamerit:[$programer,$it];
+$programerit:[$it,$pro,$gram,$mer]
